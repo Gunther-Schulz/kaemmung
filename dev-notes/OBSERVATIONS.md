@@ -107,3 +107,25 @@ commands for unstaged work take an explicit path argument (an
 argument-less guard read the index and returned a false green);
 commit per stage immediately (post-hoc separation required full
 reconstruction).
+
+## 2026-08-11 — Trial-1 correction + second observation (trigger wording)
+
+Correction to the trial entry above: the "trigger had silently
+fired since 18.07." finding was REFUTED by the dispatching
+session's own follow-up verification — the estate carries two
+counters sharing the word "Runde" (the register round in
+projekt.yaml vs the reviewer round in pruefer_gelesen_bis), the
+pass's world-check read the wrong one, and the item is correctly
+still parked. The catch chain worked (dispatcher re-read the
+Ist-Stand before acting), but the retirement-pass produced a false
+trigger-fire that survived into two reports, including this
+repo's grading entry.
+
+Observation (fire-born candidate for the retirement-pass cure):
+the pass's "re-check against the world by executed check" is only
+as strong as the trigger's own wording — a park trigger naming a
+term two fields share misfires the check in either direction.
+Cure shape: park triggers name their counter (file + field), and
+the pass's re-check quotes the field it read. Not yet minted into
+SKILL.md — logged here with this incident as provenance; mint at
+next fire or at the fire-rate review.
