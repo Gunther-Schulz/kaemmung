@@ -62,3 +62,48 @@ scar-free, with the correction recorded here and in the eval
 record. Instrument caveat, logged for future probes: the
 trigger-situation sentence does steering work in both arms — the
 probe measures name+situation, not the bare name.
+
+## 2026-08-11 — Trial 1 graded: the pbs-office Kämmung (brief-shaped pass, sonnet dispatch under an opus dispatcher)
+
+Run: FEATURE-BACKLOG.md 2825 → 2108 lines, archive 907 lines, 64
+closed items moved to FEATURE-BACKLOG-DONE.md, 168 live; pushed
+cc39d3b..a31693a (8 commits). Graded against PLAN.md §Tier-2
+signature from the dispatcher's relayed closing report (the pass ran
+in the pbs estate; this repo grades, never re-executes):
+
+1. Measurement before edit — PRESENT (brief-mandated self-recount;
+   before/after numbers carried in the report).
+2. Named disease per cure — CARRIED BY THE BRIEF (the pass is
+   brief-shaped by construction; diagnosis was the dispatching
+   session's, per this skill's own composition rule). Not evidence
+   the skill text produces diagnosis in the executor — by design.
+3. Reconciliation adds up — EXEMPLARY: per-category table, all 227
+   ids accounted (live + moved = prior stock per category), 27
+   missing lines each individually explained.
+4. Negative grep with live positive — PRESENT: tilde balance off by
+   exactly two, traced to the new care rule QUOTING the
+   strikethrough marker (instrument-liveness artifact, correctly
+   explained rather than absorbed); number-guard green on the
+   dispatcher's own run; the residual scar-removal correction
+   carried its own negative grep.
+5. No tidy-claim — PRESENT: re-measured numbers replace the claim.
+
+Beyond-signature findings the pass produced (evidence the method
+composes): a PARKED item whose trigger had silently fired since
+18.07. (retirement-pass re-check against the world found it); the
+executor refused --no-verify when the carrier's number-guard fired
+44× on the legitimate move and diagnosed a mechanism gap instead —
+the guard's gap predicate could not express "absence evidenced in
+the closure home"; repaired red-first on four mutants, 15/15, and
+the guard now also catches silent deletion and copied-not-moved.
+
+Fire-born mint from this trial (SKILL.md disease-1 cure amended,
+same commit): the cure must include teaching the carrier's
+mechanical GUARDS the exit — a presence predicate fires on the move
+itself, and the first trial measured exactly that (44 false fires).
+
+Lessons booked estate-side (FB 96, not ours to carry): verification
+commands for unstaged work take an explicit path argument (an
+argument-less guard read the index and returned a false green);
+commit per stage immediately (post-hoc separation required full
+reconstruction).

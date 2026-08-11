@@ -39,7 +39,12 @@ retirement, then boundaries, then grades — re-measure after each.
    the closure home. Cure: move each closed body with its evidence
    to the declared closure home, and amend the carrier's own care
    rule to name the exit — the rule that forbade leaving is the
-   defect, never the entries.
+   defect, never the entries. The carrier's mechanical guards learn
+   the exit in the same pass: a presence predicate fires on the
+   move itself (first trial: 44 false fires on the legitimate
+   move); the repaired form asks whether a missing id's absence is
+   EVIDENCED in the closure home — which also catches silent
+   deletion and copied-not-moved.
 2. **Capture-dominance** — bookings outrun closures plus drops;
    every investigation spawns findings while closing one. Marker:
    booked ~3× closed over a +30%-line stretch. Cure: the
