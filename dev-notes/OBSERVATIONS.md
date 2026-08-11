@@ -46,3 +46,19 @@ READY) — the description's fire rate is unmeasured until then.
 (3) Naming open by design: the PLAN argues kaemmung over the
 canonical "grooming" (wrong priors: scrum refinement); the cold
 probe decides, per skill-craft's surface-the-substitution rule.
+
+## 2026-08-11 — name cold-probe, graded (deferral 3 closed)
+
+Both arms run same day as birth (2 × sonnet, name + trigger
+situation only, no skill text; transcripts + grading in
+dev-notes/eval-kaemmung/2026-08-11/). KEEP kaemmung. The honest
+part: PLAN.md's feared wrong prior ("grooming = scrum refinement
+ceremonies") did NOT materialize — the grooming arm produced
+near-identical correct conduct, including the inflow-vs-outflow
+ratio as named cause (stronger there than the kaemmung arm). The
+keep decision therefore rests on parity + closer-fitting recruits
++ house consistency, not on a misfire; PLAN.md corrected in place,
+scar-free, with the correction recorded here and in the eval
+record. Instrument caveat, logged for future probes: the
+trigger-situation sentence does steering work in both arms — the
+probe measures name+situation, not the bare name.

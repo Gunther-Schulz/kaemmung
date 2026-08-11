@@ -2,14 +2,6 @@
 
 ## Open
 
-- **READY — Name cold-probe: kaemmung vs grooming.** Design decided
-  (PLAN.md §naming lineage): two fresh contexts, no skill text, one
-  asked what behavior "eine Kämmung des Backlogs" implies, one what
-  "backlog grooming" implies; graded against the intended behavior
-  (diagnose-then-cure + accounting close, NOT scrum refinement).
-  Verifier: transcripts + grade in dev-notes/eval-kaemmung/<date>/.
-  Done-criterion: keep-or-rename decision recorded in PLAN.md.
-  Write boundary: this repo.
 - **READY — Tier-1 eval run.** Query set operator-blessed in
   PLAN.md §Evaluation; runner /eval-skill after plugin install.
   Verifier: fire-rate table in dev-notes/eval-kaemmung/<date>/.
@@ -31,4 +23,9 @@
 
 ## Done
 
-(none yet)
+- **DONE — Name cold-probe: kaemmung vs grooming** (2026-08-11).
+  Both arms run (2 × sonnet, name + situation only); verdict KEEP
+  kaemmung, argued basis corrected by measurement — grooming did
+  not misfire as feared. Evidence:
+  dev-notes/eval-kaemmung/2026-08-11/ (result.md + both
+  transcripts); PLAN.md naming section updated.

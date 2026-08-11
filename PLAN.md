@@ -3,13 +3,16 @@
 Naming lineage: the office's established term for the pass (the
 2026-07-17 backlog-kaemmer dispatch named it) — a deliberate
 DEVIATION from skill-craft's canonical-term rule, surfaced rather
-than silent: the industry-canonical term is "backlog grooming", but
-its priors are scrum refinement ceremonies (estimation,
-prioritization, splitting) — the wrong behavior for this skill,
-whose distinctive content is diagnose-then-cure with an accounting
-close. A term recruiting wrong priors is worse than one recruiting
-none. Cold-probe both candidates before first release past trial
-(BACKLOG).
+than silent; the industry-canonical term is "backlog grooming".
+Cold-probe verdict (2026-08-11, both arms, transcripts in
+dev-notes/eval-kaemmung/): KEEP kaemmung — and the originally
+argued basis ("grooming recruits wrong scrum priors") was
+CORRECTED by the measurement: grooming did not misfire; both names
+recruit nearly the same correct conduct. Keep rests on parity,
+on kaemmung's closer-fitting distinctive recruits
+(no-strand-skipped completeness; separate-don't-guess; naming the
+uncombed rest), on grooming's mild off-mission refinement flavor,
+and on house consistency. Full grading: eval result.md.
 
 Consumer of this file: the sessions that trial and extend the
 skill. Every design decision from the founding discussion is here;
