@@ -140,3 +140,20 @@ of resolved boundaries is realized at dispatch, and the cure as
 written ended one step short of its own point. Minted into cure 4
 (0.1.2): the cure closes with the bundles booked in the venue's
 carrier, or started. Fire-born, this incident as provenance.
+
+## 2026-08-11 — Trial-1 drainage follow-on, watched not minted
+
+During bundle-brief writing (the drainage FB 3.97 booked per cure
+4), two items showed SECONDARY realizing surfaces beyond the
+bundle's repo: a governance-classed doc paragraph (privilege-gated
+— builders may never write it) and a journal line in a third repo
+(three-writer model). The dispatcher resolved both at brief time
+per the dispatch skill's realization-surface rule (formulate-in-
+report / dispatcher writes) — the designed seam, zero cost. NOT a
+cure-4 gap: the cuts stem from write-PRIVILEGE rules, not from
+unresolved boundaries, and bundling by landing artifact remains
+correct. Widening candidate only if this ever fires as a real
+miss (a bundle dispatched without the carve-out, builder halting
+mid-lane): cure 4's resolution step would then name
+privilege-gated side surfaces explicitly. Until that incident:
+no mint.
