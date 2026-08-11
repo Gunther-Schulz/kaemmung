@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "kaemmung",
+  "description": "Carrier grooming with a diagnosis — cure follows disease, closing is an accounting",
+  "owner": {
+    "name": "Gunther Schulz"
+  },
+  "plugins": [
+    {
+      "name": "kaemmung",
+      "description": "Carrier grooming with a diagnosis: names WHY a backlog/queue/ledger grows (blocked exit, capture-dominance, grade inflation, unresolved boundaries), applies the matching cure, closes with a reconciliation count — never a generic tidy-up.",
+      "source": "./plugin"
+    }
+  ]
+}

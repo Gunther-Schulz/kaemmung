@@ -1,0 +1,16 @@
+{
+  "name": "kaemmung",
+  "version": "0.1.0",
+  "description": "Carrier grooming with a diagnosis: names WHY a backlog/queue/ledger grows (blocked exit, capture-dominance, grade inflation, unresolved boundaries), applies the matching cure, closes with a reconciliation count — never a generic tidy-up.",
+  "author": {
+    "name": "Gunther Schulz"
+  },
+  "repository": "https://github.com/Gunther-Schulz/kaemmung",
+  "license": "MIT",
+  "keywords": [
+    "backlog",
+    "grooming",
+    "maintenance",
+    "process"
+  ]
+}
