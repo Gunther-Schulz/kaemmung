@@ -30,3 +30,19 @@ Full detail: PLAN.md §founding evidence. Short form:
 Every clause of SKILL.md v0.1.0 traces to these incidents; the
 naming deviation (kaemmung over the canonical "grooming") is
 argued in PLAN.md and open until the cold probe (BACKLOG).
+
+## 2026-08-11 — birth review (skill-craft review-checklist pass, condensed)
+
+Consumer declared (top-tier, dispatch-default for the pass);
+evidence register throughout; scope cue ("Not for …") in the
+description; one meaning one home (carrier-design rules cited to
+the operator corpus, never restated; diseases co-located with
+markers and cures); completion criteria checkable (reconciliation
+sum, negative grep with liveness). Recorded deferrals: (1)
+mechanical frontmatter validation not run — schema copied from
+begehung's working 0.1.2 pattern; run before first release past
+trial. (2) Tier-1/Tier-2 sets written but unexecuted (BACKLOG,
+READY) — the description's fire rate is unmeasured until then.
+(3) Naming open by design: the PLAN argues kaemmung over the
+canonical "grooming" (wrong priors: scrum refinement); the cold
+probe decides, per skill-craft's surface-the-substitution rule.
