@@ -129,3 +129,14 @@ Cure shape: park triggers name their counter (file + field), and
 the pass's re-check quotes the field it read. Not yet minted into
 SKILL.md — logged here with this incident as provenance; mint at
 next fire or at the fire-rate review.
+
+## 2026-08-11 — Trial-1 third observation, minted (bundles booked, not just tabled)
+
+The pass built the bundling table (cure 4) and stopped; the
+drainage step — the bundles as dispatchable units — existed only
+in the grading session's chat recommendation until the operator
+asked "ist das schon persistiert?". The answer was no: the value
+of resolved boundaries is realized at dispatch, and the cure as
+written ended one step short of its own point. Minted into cure 4
+(0.1.2): the cure closes with the bundles booked in the venue's
+carrier, or started. Fire-born, this incident as provenance.

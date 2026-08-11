@@ -62,7 +62,12 @@ retirement, then boundaries, then grades — re-measure after each.
    pass that grows with the queue and binds the strongest reader
    available. Marker: dispatchable entries without a named landing
    artifact. Cure: resolve each to its realizing artifact, then
-   bundle by shared write boundary — a mechanical join over data.
+   bundle by shared write boundary — a mechanical join over data —
+   and close with the bundles BOOKED as dispatchable units in the
+   venue's own carrier, or started: a bundling table nobody
+   schedules is decoration, and the drainage step otherwise
+   survives only in the conversation (first trial: it did, until
+   the operator asked where it lived).
 
 ## The closing is an accounting, never a feeling
 
