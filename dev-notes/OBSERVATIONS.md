@@ -157,3 +157,63 @@ miss (a bundle dispatched without the carve-out, builder halting
 mid-lane): cure 4's resolution step would then name
 privilege-gated side surfaces explicitly. Until that incident:
 no mint.
+
+## 2026-08-19 — All four markers negative on a carrier the operator asked to consolidate
+
+**Incident + basis.** cache-fix `BACKLOG.md`, 573 entries / 21,628
+lines / 10 sections, brought to Kämmung by the operator ("wir müssen
+uns mal den Backlog anschauen und konsolidieren"). The intake ran and
+returned three clean negatives and one mild positive:
+1. blocked exit — ABSENT: 0 closure markers outside `## Done`,
+   positive control 189 inside, pattern shown live before the zero was
+   believed;
+2. capture-dominance — ABSENT: 108 booked (entry count 465 -> 573)
+   against 113 closed over the +30% stretch = 0.95:1, tripwire 3:1.
+   Live sections all SHRANK across it (`## Open` 159 -> 107,
+   `## Parked` 29 -> 13, `## Upstream PR round` 80 -> 31);
+3. grade inflation — ABSENT: the third grade already exists
+   (`## Record`), and the dispatchable head is UNDER-full at 9/10, the
+   repo's own lint printing "promote from ## Record";
+4. unresolved boundaries — MILD: 4 of 13 READY entries carry no
+   `Write-set:`.
+
+So the carrier is healthy on every axis this skill measures, and the
+operator's instinct was still right. **What it is instead is an
+ARCHIVE-dominated carrier:** `## Done` holds 268 of 573 entries and
+**10,228 of 21,628 lines (47%)**; `## Done` + `## Record` together are
+**71% of the file**. Live work is 120 entries in ~4,700 lines. Every
+line of that is COMPLIANCE — the accretion rule says closure means the
+body MOVES to the closure home, and it does, faithfully, forever.
+
+**Class.** Scope gap, not a missed diagnosis. The four diseases all
+describe a carrier failing to LOSE things. This one loses things
+correctly and is crushed by what it correctly keeps. Cure 1's own
+wording points the other way ("never delete silently is satisfied by a
+recorded MOVE") and is what makes the growth invisible to the marker
+set: the fuller `## Done` gets, the healthier cure 1 reads.
+
+**Pre-formulated text, should this fire a second time.** A fifth
+marker for the intake, cheap because it reuses numbers already taken:
+*archive share — closure-home lines as a fraction of carrier lines.
+Past ~50% the carrier has become two documents sharing a file, and the
+cure is a SPLIT (closure home becomes its own file, declared in the
+repo's CLAUDE.md file-roles section so "one home" still holds), never
+a prune — nothing here is stale, and a retirement pass over it would
+correctly find nothing to drop.* The tell that separates it from
+disease 2: live sections shrinking while total lines grow.
+
+**Corroborating evidence that the blindness is real and not just felt.**
+The consuming repo's own session-start banner reads `## Open` only
+(`104 open item(s) [scope: "## Open" only; 472 more entries in 8 other
+sections]`) — the archive share had already forced the reader to scope
+away 82% of the carrier, and nobody had read that scoping line as a
+finding. Separately, that repo's retirement tripwire returns None by
+an arithmetic that cannot fire on a capped carrier; booked in the
+owning repo's backlog, not here.
+
+**Consumer + drain seam.** Kämmung's intake list (`Measure before
+touching`) and the disease table. Drain: the next maintenance pass
+under the OBSERVATIONS quota — mint the fifth marker if a second
+carrier presents all-negative-but-consolidate, discard with a
+one-line reason if the next few carriers are ordinary disease.
+Deliberately NOT minted today: n=1, and this skill is fire-born.
